@@ -18,6 +18,8 @@ My Site: https://gendaineko2222.github.io/
 ![](https://img.shields.io/badge/Scss-CC6699?labelColor=black&logo=Sass)
 ![](https://img.shields.io/badge/Nuxt.js-00DC82?labelColor=black&logo=Nuxt.js)
 ![](https://img.shields.io/badge/Vue.js-4FC08D?labelColor=black&logo=Vue.js)
+![](https://img.shields.io/badge/Next.js-000000?labelColor=black&logo=Next.js)
+![](https://img.shields.io/badge/React-61DAFB?labelColor=black&logo=React)
 
 
 ### Hostings
