@@ -1,6 +1,5 @@
 ## About me
 趣味でプログラミングしてる人です  
-My Site: https://gendaineko2222.github.io/
 
 ## Stats
 <p align="left"> 
